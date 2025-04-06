@@ -2,6 +2,8 @@
 
 This project focuses on uncovering key business insights from retail sales data using Tableau. The analysis explores online buying behavior, international sales performance, growth trends, and customer retention strategies.
 
+Dashboard link: https://prod-uk-a.online.tableau.com/t/linuanil58-961d6d5a87/views/SalesDataVisualisation/Dashboard1
+
 ## 📌 Key Insights
 
 - **Top Markets (Excl. UK)**: The Netherlands, EIRE (Ireland), Germany, and Australia show strong online purchase frequency and revenue.
